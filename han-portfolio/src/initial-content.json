@@ -1,0 +1,332 @@
+{
+  "text": {
+    "text_1": "Skip to content",
+    "text_2": "h",
+    "text_3": "n",
+    "text_4": ".",
+    "text_5": "Let's talk",
+    "text_6": "SOFTWARE DEVELOPER & ASPIRING AI ENGINEER",
+    "text_7": "I'm ",
+    "text_8": "Han Nyi Min Htut",
+    "text_9": " — a developer building practical software and exploring what AI can make possible.",
+    "text_10": "Explore my work",
+    "text_11": "Read my research",
+    "text_12": "GitHub",
+    "text_13": "LinkedIn",
+    "text_14": "Yangon, Myanmar",
+    "field_3": "Han Nyi Min Htut",
+    "text_15": "Han Nyi Min Htut",
+    "text_16": "16.8409° N / 96.1735° E",
+    "field_4": "THE PERSON BEHIND THE CODE",
+    "field_5": "About me",
+    "text_17": "I'm a final-year Computer Science student at the University of Information Technology, Yangon, specializing in Knowledge Engineering. My interests span artificial intelligence, model training, and computer vision.",
+    "text_18": "With hands-on experience in Java SE, Java EE, and PHP, I build practical solutions that help businesses improve their operations. AI is my main direction; cloud computing is my next step toward training and deploying models with larger computing resources.",
+    "text_19": "I earned second runner-up in the KBZPay Mini App Development Competition, maintain a strong academic record, and passed the FE Examination. Beyond code, I have intermediate English proficiency, have passed JLPT N4 and N3, and am studying toward N2.",
+    "text_20": "More about my journey",
+    "field_6": "IDEAS INTO IMPLEMENTATION",
+    "field_7": "My projects",
+    "text_21": "All repositories",
+    "text_22": "PROJECT ",
+    "field_8": "My research",
+    "text_23": "ICAIT 2026 · Upcoming presentation",
+    "text_24": "RESEARCH PAPER / 2026",
+    "text_25": "Language-Conditioned Abstention in Burmese-English RAG: Retrieval–Decision Divergence Across Query Languages",
+    "text_26": "Han Nyi Min Htut",
+    "text_27": "&",
+    "text_28": " Thet Thet Zin",
+    "text_29": "A controlled evaluation of when a local RAG system answers or abstains across English, Burmese, and code-mixed queries about university regulations.",
+    "text_30": "Across 79 paired semantic intents and 237 query variants (222 held-out), the study separates retrieval quality from answer-versus-abstain decisions and output-contract compliance.",
+    "text_31": "Read the paper",
+    "text_32": "Code & benchmark",
+    "field_9": "TOOLS OF THE TRADE",
+    "field_10": "My Skills",
+    "text_33": "Education",
+    "text_34": "Certifications & languages",
+    "text_35": "English · Intermediate ",
+    "text_36": " / ",
+    "text_37": " Japanese · Studying toward N2",
+    "text_38": "A MOMENT TO REMEMBER",
+    "text_39": "2ND RUNNER-UP / THIRD PLACE",
+    "text_40": "KBZPay Mini App",
+    "text_41": "Development Competition",
+    "text_42": "AppCube Mini App Hackathon",
+    "text_43": "The Best Mini App Award",
+    "text_44": "Meet the team",
+    "field_11": "Han holding the KBZPay third-place award",
+    "text_45": "View photo",
+    "text_46": "THE NEXT GOOD IDEA STARTS WITH A CONVERSATION",
+    "text_47": "A project, a research idea, or a conversation about technology.",
+    "text_48": "I'd love to hear from you.",
+    "text_49": "Say hello",
+    "text_50": "h",
+    "text_51": "n",
+    "text_52": ".",
+    "text_53": "© ",
+    "text_54": " Han Nyi Min Htut",
+    "text_55": "↑"
+  },
+  "links": {
+    "github": "https://github.com/hannyiminhtut",
+    "field_1": "mailto:yutt83846@gmail.com",
+    "field_2": "https://www.linkedin.com/in/han-nyi-min-htut-708277306/",
+    "field_12": "mailto:yutt83846@gmail.com",
+    "field_13": "https://www.linkedin.com/in/han-nyi-min-htut-708277306/",
+    "researchPaper": "https://github.com/hannyiminhtut/Burmese-RAG-Reliability/blob/HEAD/docs/26042.pdf",
+    "researchCode": "https://github.com/hannyiminhtut/Burmese-RAG-Reliability"
+  },
+  "images": {
+    "profile.jpg": "/assets/profile.jpg",
+    "award-1.jpg": "/assets/award-1.jpg",
+    "fe-1.jpg": "/assets/fe-1.jpg",
+    "fe-2.jpg": "/assets/fe-2.jpg",
+    "n3.jpg": "/assets/n3.jpg",
+    "n4.jpg": "/assets/n4.jpg",
+    "award-2.jpg": "/assets/award-2.jpg",
+    "award-3.jpg": "/assets/award-3.jpg"
+  },
+  "collections": {
+    "projects": [
+      {
+        "name": "UniVault",
+        "category": "Systems",
+        "type": "software",
+        "code": "01",
+        "description": "A home for university knowledge. Distributed project storage, resource sharing, and semantic search.",
+        "tags": [
+          "Next.js",
+          "FastAPI",
+          "PostgreSQL"
+        ],
+        "repo": "UniVault",
+        "theme": "violet",
+        "icon": "Database",
+        "image": ""
+      },
+      {
+        "name": "GreenNeighbor",
+        "category": "AI for communities",
+        "type": "ai",
+        "code": "02",
+        "description": "Turning community action into cleaner neighborhoods with AI-assisted waste reporting and verification.",
+        "tags": [
+          "Next.js",
+          "Gemini",
+          "PostgreSQL"
+        ],
+        "repo": "GreenNeighbor",
+        "theme": "green",
+        "icon": "Layers",
+        "image": ""
+      },
+      {
+        "name": "Face Recognition Attendance",
+        "category": "Computer vision",
+        "type": "ai",
+        "code": "03",
+        "description": "Exploring the intersection of computer vision and everyday workflows through face recognition attendance.",
+        "tags": [
+          "Python",
+          "Computer vision"
+        ],
+        "repo": "Artificial-Intelligence",
+        "theme": "blue",
+        "icon": "BrainCircuit",
+        "image": ""
+      },
+      {
+        "name": "UniVoice",
+        "category": "Campus experience",
+        "type": "software",
+        "code": "04",
+        "description": "A university feedback and issue reporting system that gives campus concerns a place to be heard.",
+        "tags": [
+          "Java"
+        ],
+        "repo": "UniVoice",
+        "theme": "orange",
+        "icon": "Terminal",
+        "image": ""
+      },
+      {
+        "name": "Jobify",
+        "category": "Web application",
+        "type": "software",
+        "code": "05",
+        "description": "Connecting companies and job seekers in one platform.",
+        "tags": [
+          "PHP"
+        ],
+        "repo": "Jobify",
+        "theme": "blue",
+        "icon": "Code2",
+        "image": ""
+      },
+      {
+        "name": "Money Transfer App",
+        "category": "Application development",
+        "type": "software",
+        "code": "06",
+        "description": "A money transfer application project built with TypeScript.",
+        "tags": [
+          "TypeScript"
+        ],
+        "repo": "money-transfer-app",
+        "theme": "violet",
+        "icon": "ArrowRight",
+        "image": ""
+      },
+      {
+        "name": "Smart Restaurant Management",
+        "category": "Desktop application",
+        "type": "software",
+        "code": "07",
+        "description": "A Java desktop project for restaurant management, with a JavaFX interface.",
+        "tags": [
+          "Java SE",
+          "JavaFX"
+        ],
+        "repo": "Smart-Restaurant-Management-System",
+        "theme": "orange",
+        "icon": "Terminal",
+        "image": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages",
+        "icon": "Code2",
+        "items": [
+          "Python",
+          "Java",
+          "PHP",
+          "C++",
+          "SQL",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "AI & data science",
+        "icon": "BrainCircuit",
+        "items": [
+          "PyTorch",
+          "TensorFlow",
+          "OpenCV",
+          "Scikit-learn",
+          "NumPy",
+          "Pandas"
+        ]
+      },
+      {
+        "name": "Backend & databases",
+        "icon": "Database",
+        "items": [
+          "Spring Boot",
+          "Flask",
+          "REST API",
+          "JSP",
+          "MySQL",
+          "MariaDB"
+        ]
+      },
+      {
+        "name": "Frontend & tools",
+        "icon": "Layers",
+        "items": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "Tailwind CSS",
+          "Git",
+          "GitHub",
+          "VS Code",
+          "IntelliJ IDEA",
+          "Postman",
+          "Docker"
+        ]
+      }
+    ],
+    "focus": [
+      {
+        "icon": "Code2",
+        "n": "01",
+        "title": "Software as the foundation",
+        "text": "Practical applications. Reliable systems. Real-world problems.",
+        "cls": "violet"
+      },
+      {
+        "icon": "BrainCircuit",
+        "n": "02",
+        "title": "AI as the direction",
+        "text": "Model training, computer vision, and multilingual RAG research.",
+        "cls": "green"
+      },
+      {
+        "icon": "Cloud",
+        "n": "03",
+        "title": "Cloud as the next chapter",
+        "text": "Currently learning to bring models from experiments to deployment.",
+        "cls": "blue"
+      }
+    ],
+    "education": [
+      {
+        "date": "2022 — 2027 (expected)",
+        "title": "University of Information Technology",
+        "sub": "Computer Science · Knowledge Engineering",
+        "text": "Yangon, Myanmar · Final-year student"
+      },
+      {
+        "date": "Grades 10 — 11",
+        "title": "Shwe Waddy Private High School",
+        "sub": "485 marks · Three distinctions",
+        "text": "Passed the matriculation examination."
+      },
+      {
+        "date": "Grades 1 — 9",
+        "title": "Basic Education Branch High School, Thonze",
+        "sub": "Primary & secondary education",
+        "text": ""
+      }
+    ],
+    "certificates": [
+      {
+        "mark": "FE",
+        "date": "October 2024",
+        "title": "Fundamental Information Technology Engineer",
+        "sub": "ITPEC · MMFE24A00227",
+        "src": "fe-1.jpg",
+        "caption": "FE certification ceremony"
+      },
+      {
+        "mark": "N3",
+        "date": "July 2026",
+        "title": "Japanese-Language Proficiency Test",
+        "sub": "N3 passed · 110 / 180",
+        "src": "n3.jpg",
+        "caption": "JLPT N3 results — July 2026"
+      },
+      {
+        "mark": "N4",
+        "date": "December 2025",
+        "title": "Japanese-Language Proficiency Test",
+        "sub": "N4 passed · 102 / 180",
+        "src": "n4.jpg",
+        "caption": "JLPT N4 results — December 2025"
+      }
+    ],
+    "gallery": [
+      [
+        "award-2.jpg",
+        "Award presentation with the team"
+      ],
+      [
+        "award-3.jpg",
+        "At the KBZPay Mini App Hackathon"
+      ],
+      [
+        "fe-2.jpg",
+        "FE certification ceremony"
+      ]
+    ]
+  }
+}
